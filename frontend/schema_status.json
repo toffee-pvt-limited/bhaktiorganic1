@@ -1,0 +1,34 @@
+{
+  "variants_columns": [
+    "id",
+    "product_id",
+    "name",
+    "price",
+    "description",
+    "image",
+    "tag",
+    "size",
+    "description2",
+    "description3",
+    "discount",
+    "servingSize",
+    "servingsPerContainer",
+    "calories",
+    "totalFat",
+    "saturatedFat",
+    "sodium",
+    "totalCarbohydrate",
+    "dietaryFiber",
+    "protein",
+    "ingredients",
+    "flavor"
+  ],
+  "variant_sizes_exists": true,
+  "variant_sizes_columns": [
+    "id",
+    "variant_id",
+    "size",
+    "price",
+    "stock"
+  ]
+}
